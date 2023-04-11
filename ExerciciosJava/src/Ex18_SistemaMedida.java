@@ -1,4 +1,4 @@
-public class SistemaMedida {
+public class Ex18_SistemaMedida {
     public static void main(String[] args) {
        String sigla = "A";
 

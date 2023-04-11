@@ -1,4 +1,4 @@
-public class ExemploBreakContinue {
+public class Ex17_ExemploBreakContinue {
     public static void main(String[] args) {
         // interrupção com break, continue pula o numero e imprime o restante 
         for(int numero = 1; numero <= 5; numero++){

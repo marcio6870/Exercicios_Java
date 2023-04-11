@@ -1,4 +1,4 @@
-public class ResultadoEscolar {
+public class Ex19_ResultadoEscolar {
     
    
     public static void main(String[] args) {
